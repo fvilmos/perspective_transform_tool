@@ -18,7 +18,7 @@ Perspective transformation is a technique (geometric transformation) that can be
 
 1. install requirements (pip install numpy, opencv-python, glob);
 2. run python perspective_transform_tool.py, which will load the demo;
-3. put your video file in the data folder (for this work the CARLA simulator was used [1]), or edit cfg.json file to point to the right location. In case the input is an image, it can be loaded by editing the ```"files": "*.mp4"``` to ```"files": "*.png"``` in the ```cgf.json``` file. There is a test file in the ```data``` folder for testing. 
+3. put your video file in the data folder (for this work the CARLA simulator was used [1]), or edit cfg.json file to point to the right location. In case the input is an image, it can be loaded by editing the ```"files": "*.mp4"``` to ```"files": "*.png"``` in the ```cfg.json``` file. There is a test file in the ```data``` folder for testing. 
 4. use the menu to generate the transform, hit 's' to save
 5. load in your project the transformation matrices, and use it for something great
 ```
