@@ -6,7 +6,7 @@ Perspective transformation is a technique (geometric transformation) that can be
 
 <p align="center"> 
 <img src="./info/demo.gif" width="800">
-<div align="center">Left: red dots-input tranfom, blue dots-desired transform , Right: Warped image</div>
+<div align="center">Left: red dots-input transfom, blue dots-desired transform , Right: Warped image</div>
 
 ## Features
 - load and save the configuration for input, and output perspectives;
